@@ -14,5 +14,7 @@ def select_microphone(index):
    else:
       print(f"No microphone at index {index}")
 
+selected_microphone = int(input("입력 장치의 번호를 입력해주세요: "))
+
 # 인덱스로 특정 입력 장치 선택
-select_microphone(1)
+select_microphone(selected_microphone)
