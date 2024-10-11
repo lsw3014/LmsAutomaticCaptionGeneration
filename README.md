@@ -1,6 +1,6 @@
 # LmsAutomaticCaptionGeneration
 
-<p>LMS에 업로드된 강의에 자동으로 자막을 달아주고, 내용을 요약해주는 프로그램</p>
+<p>﻿lms 강의 자막 생성 및 요약 프로그램</p>
 <br>
 
 ## 프로젝트 개요
